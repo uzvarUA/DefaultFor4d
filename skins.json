@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "Skin Name",
+      "geometry": "geometry.tuto",
+      "texture": "Doctor Livesey.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "pack",
+  "localization_name": "pack"
+}

@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "description": "Add Description Here",
+    "name": "Add Name Here",
+    "uuid": "c907d27b-7d24-4c0b-b58b-82416af23313"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "fa54e7ce-f86e-4199-9541-f6465bc1306c"
+    }
+  ],
+  "format_version": 1
+}
